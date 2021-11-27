@@ -1,18 +1,20 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Monotype Corsiva, Arial, sans-serif;
 }
- 
  
 h1 {
-  color: SeaGreen;
+  color: #000080;
+  text-align: center;
 }
- 
- 
-p, 
-li {
+
+h2 {
+  text-align: center;
+  color: #000080;
+}
+
+p,li {
   font-size: 18px;
 }
- 
  
 a {
   text-decoration: none;
